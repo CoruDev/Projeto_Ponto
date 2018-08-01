@@ -9,3 +9,5 @@ Não esqueça de dar crédito ao autor.
 [Janaina](https://github.com/JanainaG)
 
 [Daniel](https://github.com/DDParkas)
+
+Saiba mais em: [Árvore da Coruja](http://www.arvoredacoruja.com/p/projeto-de-ponto.html)
